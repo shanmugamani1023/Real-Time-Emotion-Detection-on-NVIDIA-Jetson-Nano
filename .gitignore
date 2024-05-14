@@ -1,0 +1,13 @@
+*.pyc
+*.pth.tar
+*.onnx
+*.engine
+*.jpg
+*.png
+*.zip
+cat_dog*
+plants*
+data/
+models/
+logs/
+demo/
